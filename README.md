@@ -53,6 +53,8 @@ A hands-on beginner project that introduces a basic Continuous Integration (CI) 
 
 ⚗️ Sample Workflow: .github/workflows/ci.yml
 
+```yaml
+
 name: CI Pipeline
 
 on:
@@ -81,6 +83,8 @@ jobs:
         run: npm test
 
  > You can easily modify this to fit any tech stack: Python, Go, Java, etc.
+
+```
 
 ---
 
