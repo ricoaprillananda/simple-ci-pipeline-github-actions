@@ -33,8 +33,9 @@ A hands-on beginner project that introduces a basic Continuous Integration (CI) 
 ├── test/                  # Sample test files
 └── README.md              # Project overview and instructions
 
----
+```
 
+---
 
 ⚙️ How It Works
 
