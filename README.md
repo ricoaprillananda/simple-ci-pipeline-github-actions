@@ -82,9 +82,9 @@ jobs:
       - name: Run Tests
         run: npm test
 
- > You can easily modify this to fit any tech stack: Python, Go, Java, etc.
-
 ```
+
+ > You can easily modify this to fit any tech stack: Python, Go, Java, etc.
 
 ---
 
